@@ -29,7 +29,7 @@ At the top level (main branch), you will find:
 
 ```text
 .
-├── 00_Intro_and_rules.pptx     # Intro presentation (challenge, rules, EDA hints)
+├── 00_Intro.pptx     # Intro presentation (challenge, rules, EDA hints)
 ├── deliverable/
 │   ├── 01_template.pptx      # PPT template for your 3–5 minute presentation
 │   └── 02_submission.xlsx             # Excel template: PatientID, survival_month, alive_dead_status
