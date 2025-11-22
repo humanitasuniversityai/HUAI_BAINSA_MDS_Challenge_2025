@@ -34,8 +34,8 @@ At the top level (main branch), you will find:
 │   ├── 01_template.pptx      # PPT template for your 3–5 minute presentation
 │   └── 02_submission.xlsx             # Excel template: PatientID, survival_month, alive_dead_status
 └── data/
-    ├── train_MDS.csv                               # 1000 synthetic MDS patients (with targets)
-    └── test_MDS.csv                                # 200 synthetic MDS patients (targets hidden)
+    ├── train_MDS.xlsx                               # 1000 synthetic MDS patients (with targets)
+    └── test_MDS.xlsx                                # 200 synthetic MDS patients (targets hidden)
 ````
 
 
